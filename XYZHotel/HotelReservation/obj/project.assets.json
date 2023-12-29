@@ -11211,11 +11211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\BigBangAssessment\\XYZHotel\\HotelReservation\\HotelReservation.csproj",
+      "projectUniqueName": "D:\\BigBang1\\XYZHotel\\HotelReservation\\HotelReservation.csproj",
       "projectName": "HotelReservation",
-      "projectPath": "D:\\C#\\BigBangAssessment\\XYZHotel\\HotelReservation\\HotelReservation.csproj",
+      "projectPath": "D:\\BigBang1\\XYZHotel\\HotelReservation\\HotelReservation.csproj",
       "packagesPath": "C:\\Users\\rsath\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\BigBangAssessment\\XYZHotel\\HotelReservation\\obj\\",
+      "outputPath": "D:\\BigBang1\\XYZHotel\\HotelReservation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
